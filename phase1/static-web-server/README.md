@@ -9,3 +9,6 @@ node app.js
 ```
 
 Then you can enter '[http://localhost:400/](http://localhost:400/)' at you browser to visit the static site. 
+
+That all!.
+
